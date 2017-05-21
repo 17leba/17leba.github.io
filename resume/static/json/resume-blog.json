@@ -1,18 +1,4 @@
 {
-	"title":"博客及作品等",
-	"blog":"http://www.17leba.com/",
-	"github":"https://github.com/17leba",
-	"jquery-analysis":"https://github.com/17leba/pb.js/blob/master/jquery.js",
-	"jquery-plugins":"https://github.com/17leba/jQuery-plugins",
-	"resume-game":"https://github.com/17leba/js/tree/master/my",
-	"H5":{
-		"star":"http://www.hiwifi.com/hd/star/star.html",
-		"jiju":"http://www.hiwifi.com/jiju/",
-		"six":"http://www.hiwifi.com/hd/six/"
-		},
-	"web":{
-		"jly":"http://www.hiwifi.com",
-		"1A":"http://www.1Awang.com"
-	},
-	"soon":"..."
+	"title": "技能和作品",
+	"info": "本简历代码地址：https://github.com/17leba/resume<br>熟练掌握css/js/html/node，熟练运用jQuery/Vue/React/fis/webpack等框架和工具。<br>春雨医生工作期间主导前后端分离工程，负责过若干公司重大项目（前端），服务端的项目（python）也贡献过一些代码，并带过几个新人。<br>善于解决问题，能积极面对压力。"
 }
